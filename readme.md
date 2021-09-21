@@ -1,1 +1,1 @@
-Incorporating Isodose Lines and Texture Information via Multi-task Learning for Dose Prediction in Radiotherapy
+Incorporating Isodose Lines and Gradient Information via Multi-task Learning for Dose Prediction in Radiotherapy
